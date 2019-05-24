@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/
+flaskr/
+setup.py
+static/
+templates/
+tests/
